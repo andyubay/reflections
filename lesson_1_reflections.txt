@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The FD command made it much easier to quickly find the error which was 'spacr' rather than 'space.'
+
+Other Thoughts
+
+The FD command is useful although it may not work so well with multiple users.
+
+It was interesting to see that FD didn't work in Powershell. You had to use the old comments prompt.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+We could get to features that we did before that we stopped implementing. We could easily bring them back to life. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+You can have your worked saved at logical stages so that it is easy to work backwards
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is for programmers that are working on multiple files. Google Docs is for the general user that uses one file at a time
+
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log to get a record and id numbers of all the commits. You can then use git diff to see the differences between the one commit and another commit. Often we like to notice the difference between the preceding commit which is shown below
+
+How might using version control make you more confident to make changes that could break something?
+
+version control allows one to experiment in the knowledge that one can always go back to the previous version when needed
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use it as a teaching aid. Hopefully get students using it so that they do not say that they have just messed up their code. 
