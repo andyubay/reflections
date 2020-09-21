@@ -11,12 +11,12 @@ Sometimes you may not want your work to be public as it is not ready for others 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are when you want to change someone elses public repository but do not have permission. Clones are when you make your own local copy either from Github or a local directory. Branches exist within the repository. They are used to try out new features or make different version of the same program
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+It allows us to know whether the remote and the local are in sync or not.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
