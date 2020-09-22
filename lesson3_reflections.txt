@@ -21,9 +21,9 @@ It allows us to know whether the remote and the local are in sync or not.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+You could email code back and forth and agree to work on certain sections. One could also host using cloud such as Dropbox or OneDrive. There would be less to learn using these latter systems but it would make it harder to sync code properly
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+You can experiment with different ideas without messing up the main version. You can also share your new idea with friends and colleagues
